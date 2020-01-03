@@ -4,5 +4,6 @@ saya belajar git untuk pertama kalinya
 > saya belajar dari video webprogramming unpas
 saya harap saya bisa menguasainya
 dan sesegera munkin untuk menggunakan secara produktif
+~dunia 2 menemukan takagi
+=======
 > saya dari dunia 1
-~dunia 1 ada megumin
